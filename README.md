@@ -1,6 +1,6 @@
 # PDDL
 
-Hi this is a PDDL planner code in the course of artificial intelligent to simulate the routin of a virtual spaceship
+Hi, this is a PDDL planner code to simulate the routin of a virtual spaceship which is also the coursework of artificial intelligent
 
 source code file(s) may be put in a password protected ZIP file to prevent plagiarism
 
