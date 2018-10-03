@@ -1,4 +1,4 @@
-# PDDL
+# AI PDDL Planner
 
 Hi, this is a PDDL planner code to simulate the routin of a virtual spaceship which is also a coursework of Artificial Intelligent in 2017
 
